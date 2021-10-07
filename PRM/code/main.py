@@ -8,14 +8,16 @@ class task_model:
     def __init__(self, p, e):
         self.p = p ## Period
         self.e = e ## execution time requirement
+        self.priority = 1 / p ## priority for RM model
         self.utilization = e / p
 
 class schuduling_model(task_model):
     '''
     A scheduling model can also be a task for a higher-level scheduling model.
     '''
-    def __init__(self, algorithm, resource):
-        self.workload = []  ## a list of tasks
+    def __init__(self, algorithm, resource, workload):
+        ## a list of tasks sorted by priority
+        self.workload = sorted(workload, key=lambda x:x.priority, reverse=True)
         self.resource = resource
         if algorithm in ['edf', 'rm']:
             self.algorithm = algorithm
@@ -25,8 +27,13 @@ class schuduling_model(task_model):
     def dbf(self, t):
         if self.algorithm == 'edf':
             return sum([floor(self.t / i.p) * i.e for i in self.workload])
-        elif self.algorithm == 'rm':
-            return 
+    
+    # def tbf(self, e):
+    #     temp = self.
+    #     # if self.algorithm == 'rm':
+    #     #     result = []
+    #     #     for i in sorted(self.workload, key=lambda x:x.priority, reverse=True):
+    #     #         result.
             
     def ldbf(self, t):
         if self.algorithm == 'edf':
@@ -35,10 +42,18 @@ class schuduling_model(task_model):
             pass
 
     def schedulable(self):
-        for i in range(1, 2 * lcm(*[x.p for x in self.workload])+1):
-            if self.dbf(i) > self.resource.sbf(i):
-                return False
-        return True
+        if self.algorithm == 'edf':
+            for i in range(1, 2 * lcm(*[x.p for x in self.workload])+1):
+                if self.dbf(i) > self.resource.sbf(i):
+                    return False
+            return True
+        # ------- I am not sure my understanding of RM bound is correct
+        # elif self.algorithm == 'rm':
+        #     temp = []
+        #     for i, v in enumerate(self.workload):
+        #         temp.append(v.e + sum([x / self.workload[ii].p * self.workload[ii].e
+        #          for ii, x in enumerate(temp)]))
+        #         if self.resource.tbf()
 
     
 
@@ -55,6 +70,17 @@ class periodic_resource_model:
     
     def lsbf(self, t):
         return self.Theta / self.Pi * (t - 2 * (self.Pi - self.Theta))
+
+    def tbf(self, theta):
+        if theta - self.Theta * floor(theta / self.Theta) > 0:
+            temp = self.Pi - self.Theta + theta - self.Theta * floor(theta / self.Theta)
+        else:
+            temp = 0
+        return self.Pi - self.Theta + self.Pi * floor(theta / self.Theta) + temp
+    
+    def ltbf(self, theta):
+        return self.Pi / self.Theta * theta + 2 * (self.Pi - self.Theta)
+
 
 if __name__ == '__main__':
     test = periodic_resource_model(5, 3)
