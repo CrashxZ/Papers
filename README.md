@@ -1,4 +1,4 @@
-# RTS_virtualization
+# CPS_virtualization
 Everything you need about Virtualization of Cyber-Physical System.
 
 ## 1. Real-time System
@@ -103,3 +103,6 @@ Everything you need about Virtualization of Cyber-Physical System.
 | ---------- | --------- |
 |            |           |
 
+## Contact
+
+Please feel free to reach out to me at chuanyu.xue@uconn.edu
