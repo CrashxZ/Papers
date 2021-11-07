@@ -99,9 +99,13 @@ Everything you need about Virtualization of Cyber-Physical System.
 
 ## 5. Some researchers to follow up
 
-| Researcher | Institute |
-| ---------- | --------- |
-|            |           |
+| Researcher                                                   | Institute                                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Jing Li](https://web.njit.edu/~jingli/)                     | [New Jersey Institute of Technology](http://www.njit.edu/)   |
+| [Jian-Jia Chen](https://scholar.google.com/citations?user=_kx4s9QAAAAJ&hl=en&oi=ao) | [TU Dortmund University](https://scholar.google.com/citations?view_op=view_org&hl=en&org=5497375711675216526) |
+| [Guan Nan](https://scholar.google.com/citations?user=3C7SPAgAAAAJ&hl=en&oi=ao) | [City University of Hong Kong](https://scholar.google.com/citations?view_op=view_org&hl=en&org=6442500540992846260) |
+| [Insup Lee](https://scholar.google.com/citations?user=qPlUgrgAAAAJ&hl=en&oi=ao) | [University of Pennsylvania](https://scholar.google.com/citations?view_op=view_org&hl=en&org=18168328457749716238) |
+| [Aloysius Mok](https://scholar.google.com/citations?hl=en&user=M6urChQAAAAJ) | [University of Texas at Austin](https://scholar.google.com/citations?view_op=view_org&hl=en&org=14823011757688503605) |
 
 ## Contact
 
