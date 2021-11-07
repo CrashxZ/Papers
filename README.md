@@ -25,9 +25,20 @@ Everything you need about Virtualization of Cyber-Physical System.
 
 
 
-### 1.3 Real-Time Network
+### 1.3 Task Model
 
-#### 1.3.1 Time Sensitive Network
+| Authors                                                      | Title                                                        | Status  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------- |
+| [Sanjoy K. Baruah](https://link.springer.com/article/10.1023/A:1021711220939#auth-Sanjoy_K_-Baruah) | Dynamic- and Static-priority Scheduling of Recurring Real-time Tasks | Waiting |
+|                                                              |                                                              |         |
+|                                                              |                                                              |         |
+|                                                              |                                                              |         |
+
+
+
+### 1.4 Real-Time Network
+
+#### 1.4.1 Time Sensitive Network
 
 | Authors | Title | Status |
 | ------- | ----- | ------ |
@@ -37,7 +48,7 @@ Everything you need about Virtualization of Cyber-Physical System.
 
 
 
-#### 1.3.2 Real-Time Wifi
+#### 1.4.2 Real-Time Wifi
 
 | Authors | Title | Status |
 | ------- | ----- | ------ |
@@ -47,7 +58,7 @@ Everything you need about Virtualization of Cyber-Physical System.
 
 
 
-### 1.4 Real-Time Operating System
+### 1.5 Real-Time Operating System
 
 | Authors | Title | Status |
 | ------- | ----- | ------ |
