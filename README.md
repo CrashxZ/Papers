@@ -30,7 +30,7 @@ Everything you need about Virtualization of Cyber-Physical System.
 | Authors                                                      | Title                                                        | Status  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- |
 | [Sanjoy K. Baruah](https://link.springer.com/article/10.1023/A:1021711220939#auth-Sanjoy_K_-Baruah) | Dynamic- and Static-priority Scheduling of Recurring Real-time Tasks | Waiting |
-|                                                              |                                                              |         |
+| [S.K. Baruah](https://ieeexplore.ieee.org/author/37267782900) | A general model for recurring real-time tasks                | Waiting |
 |                                                              |                                                              |         |
 |                                                              |                                                              |         |
 
