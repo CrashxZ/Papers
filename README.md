@@ -40,11 +40,11 @@ Everything you need about Virtualization of Cyber-Physical System.
 
 #### 1.4.1 Time Sensitive Network
 
-| Authors | Title | Status |
-| ------- | ----- | ------ |
-|         |       |        |
-|         |       |        |
-|         |       |        |
+| Authors                               | Title                                                        | Status  |
+| ------------------------------------- | ------------------------------------------------------------ | ------- |
+| Lin Zhao, Feng He, Ershuai Li, Jun Lu | [Comparison of Time Sensitive Networking (TSN) and TTEthernet](https://sci-hubtw.hkvisa.net/10.1109/dasc.2018.8569454#) | Ongoing |
+|                                       |                                                              |         |
+|                                       |                                                              |         |
 
 
 
@@ -101,11 +101,11 @@ Everything you need about Virtualization of Cyber-Physical System.
 
 ## 4. Technical Report
 
-| Authors | Title |
-| ------- | ----- |
-|         |       |
-|         |       |
-|         |       |
+| Authors                                      | Title                                                        |
+| -------------------------------------------- | ------------------------------------------------------------ |
+| Fabian Scheler, Wolfgang Schröder-Preikschat | [Time-Triggered vs. Event-Triggered: A matter of configuration?](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.83.9896&rep=rep1&type=pdf) |
+|                                              |                                                              |
+|                                              |                                                              |
 
 
 
