@@ -20,7 +20,7 @@ Everything you need about Virtualization of Cyber-Physical System.
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- |
 | [Peng Wu](https://arxiv.org/search/cs?searchtype=author&query=Wu%2C+P), [Chenchen Fu](https://arxiv.org/search/cs?searchtype=author&query=Fu%2C+C), [Tianyu Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang%2C+T), [Minming Li](https://arxiv.org/search/cs?searchtype=author&query=Li%2C+M), [Yingchao Zhao](https://arxiv.org/search/cs?searchtype=author&query=Zhao%2C+Y), [Chun Jason Xue](https://arxiv.org/search/cs?searchtype=author&query=Xue%2C+C+J), [Song Han](https://arxiv.org/search/cs?searchtype=author&query=Han%2C+S) | [Composite Resource Scheduling for Networked Control Systems](https://arxiv.org/pdf/2109.13211.pdf) | Ongoing |
 | Insup Lee                                                    | [Handbook of Real-Time and Embedded Systems](https://www.dropbox.com/s/tgfgapd0gxhg1x3/Handbook%20of%20Real-Time%20and%20Embedded%20Systems.pdf.pdf?dl=0) | Ongoing |
-|                                                              |                                                              |         |
+| Silviu S. CraciunasRamon Serna Oliver                        | [Combined task- and network-level scheduling for distributed time-triggered systems](https://sci-hubtw.hkvisa.net/10.1007/s11241-015-9244-x) | Waiting |
 |                                                              |                                                              |         |
 
 
