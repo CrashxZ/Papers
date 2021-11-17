@@ -40,11 +40,11 @@ Everything you need about Virtualization of Cyber-Physical System.
 
 #### 1.4.1 Time Sensitive Network
 
-| Authors                               | Title                                                        | Status  |
-| ------------------------------------- | ------------------------------------------------------------ | ------- |
-| Lin Zhao, Feng He, Ershuai Li, Jun Lu | [Comparison of Time Sensitive Networking (TSN) and TTEthernet](https://sci-hubtw.hkvisa.net/10.1109/dasc.2018.8569454#) | Ongoing |
-|                                       |                                                              |         |
-|                                       |                                                              |         |
+| Authors                                                      | Title                                                        | Status   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| Lin Zhao, Feng He, Ershuai Li, Jun Lu                        | [Comparison of Time Sensitive Networking (TSN) and TTEthernet](https://sci-hubtw.hkvisa.net/10.1109/dasc.2018.8569454#) | Ongoing  |
+| Voica Gavrilu ̧t and Paul Pop                                 | [Scheduling in Time Sensitive Networks (TSN) for Mixed-Criticality Industrial Applications](https://sci-hub.se/10.1109/wfcs.2018.8402374) | Finished |
+| [Haris Suljić](https://www.researchgate.net/profile/Haris-Suljic) | [Performance Study and Analysis of Time Sensitive Networking](https://www.researchgate.net/publication/341509071_Performance_Study_and_Analysis_of_Time_Sensitive_Networking) | Ongoing  |
 
 
 
