@@ -109,7 +109,7 @@ Everything you need about Virtualization of Cyber-Physical System.
 
 
 
-## 5. Some researchers to follow up
+## 5. Some researchers to follow
 
 | Researcher                                                   | Institute                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
