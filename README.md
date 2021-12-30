@@ -48,6 +48,7 @@ Everything you need about Virtualization of Cyber-Physical System.
 | TTTech                                                       | [Scheduling Real-Time Communication in IEEE 802.1Qbv Time Sensitive Networks](https://www.researchgate.net/profile/Silviu-Craciunas-3/publication/308985854_Scheduling_Real-Time_Communication_in_IEEE_8021Qbv_Time_Sensitive_Networks/links/5e58cc624585152ce8f4ddc7/Scheduling-Real-Time-Communication-in-IEEE-8021Qbv-Time-Sensitive-Networks.pdf) | Finished |
 | TTTech                                                       | [IEEE 802.1Qbv Gate Control List Synthesis Using Array Theory Encoding](https://sci-hub.se/10.1109/rtas.2018.00008) | Waiting  |
 | Naresh Ganesh Nayak                                          | [Scheduling & Routing Time-triggered Trac in Time-sensitive Networks](https://d-nb.info/1172717451/34) | Waiting  |
+| Maryam Pahlevan                                              | [Evaluation Of Time-Triggered Traffic In Time-Sensitive Networks Using The OPNET Simulation Framework](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8374471) | Ongoing  |
 
 
 
@@ -63,11 +64,23 @@ Everything you need about Virtualization of Cyber-Physical System.
 
 ### 1.5 Real-Time Operating System
 
+| Authors       | Title                                                        | Status  |
+| ------------- | ------------------------------------------------------------ | ------- |
+| Johan Nilsson | [Real-Time Control Systems with Delays](https://lucris.lub.lu.se/ws/portalfiles/portal/4419523/8840255.pdf) | Ongoing |
+|               |                                                              |         |
+|               |                                                              |         |
+
+
+
+### 1.6 Real-Time synchronization
+
 | Authors | Title | Status |
 | ------- | ----- | ------ |
 |         |       |        |
 |         |       |        |
 |         |       |        |
+
+
 
 ## 2. Virtualization of Cyber-Physical System
 
