@@ -13,6 +13,8 @@ Everything you need about Virtualization of Cyber-Physical System.
 | [Xiang Feng](https://ieeexplore.ieee.org/author/37733906100); [A.K. Mok](https://ieeexplore.ieee.org/author/37268069000) | [A Model of Hierarchical Real-Time Virtual Resources](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1181559) | Waiting  |
 | [Yu Li](https://ieeexplore.ieee.org/author/38482065600); [Albert M.K. Cheng](https://ieeexplore.ieee.org/author/37275003800) | [Static approximation algorithms for regularity-based resource partitioning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6424798) | Waiting  |
 | [Wei-Ju Chen](https://ieeexplore.ieee.org/author/37086301460); [Pei-Chi Huang](https://ieeexplore.ieee.org/author/37900068600); [Quan Leng](https://ieeexplore.ieee.org/author/37074714300); [Aloysius K. Mok](https://ieeexplore.ieee.org/author/37268069000); [Song Han](https://ieeexplore.ieee.org/author/37086128770) | [Regular Composite Resource Partition in Open Systems](https://ieeexplore.ieee.org/document/8277278) | Waiting  |
+|                                                              |                                                              |          |
+|                                                              |                                                              |          |
 
 ### 1.2 Scheduling Algorithm
 
@@ -33,6 +35,18 @@ Everything you need about Virtualization of Cyber-Physical System.
 | [S.K. Baruah](https://ieeexplore.ieee.org/author/37267782900) | A general model for recurring real-time tasks                | Waiting |
 |                                                              |                                                              |         |
 |                                                              |                                                              |         |
+
+
+
+### 1.4 Probabilistic Real-Time Scheduling
+
+| Authors                                                      | Title                                                        | Status  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------- |
+| Sergey Bozhko, Georg von der Bru ̈ggen, and Bjo ̈rn B. Brandenburg | [Monte Carlo Response-Time Analysis](https://people.mpi-sws.org/~bbb/papers/pdf/rtss21-mc.pdf) | Ongoing |
+| Robert I. Davis, Liliana Cucu-Grosjean                       | A Survey of Probabilistic Schedulability Analysis Techniques for Real-Time Systems | Ongoing |
+| Woodbury, M.H.; Shin, K.G. (1988)                            | [EVALUATION OF THE PROBABILITY OF DYNAMIC FAILURE AND PROCESSOR UTILIZATION](https://sci-hubtw.hkvisa.net/10.1109/REAL.1988.51117#) | Ongoing |
+
+
 
 
 
