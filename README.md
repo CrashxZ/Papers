@@ -1,5 +1,4 @@
 # CPS_virtualization
-Everything you need about Virtualization of Cyber-Physical System.
 
 ## 1. Real-time System
 
