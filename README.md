@@ -1,4 +1,4 @@
-# CPS_virtualization
+# Paper review list
 
 ## 1. Real-time System
 
@@ -15,6 +15,8 @@
 |                                                              |                                                              |          |
 |                                                              |                                                              |          |
 
+
+
 ### 1.2 Scheduling Algorithm
 
 | Authors                                                      | Title                                                        | Status  |
@@ -22,7 +24,7 @@
 | [Peng Wu](https://arxiv.org/search/cs?searchtype=author&query=Wu%2C+P), [Chenchen Fu](https://arxiv.org/search/cs?searchtype=author&query=Fu%2C+C), [Tianyu Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang%2C+T), [Minming Li](https://arxiv.org/search/cs?searchtype=author&query=Li%2C+M), [Yingchao Zhao](https://arxiv.org/search/cs?searchtype=author&query=Zhao%2C+Y), [Chun Jason Xue](https://arxiv.org/search/cs?searchtype=author&query=Xue%2C+C+J), [Song Han](https://arxiv.org/search/cs?searchtype=author&query=Han%2C+S) | [Composite Resource Scheduling for Networked Control Systems](https://arxiv.org/pdf/2109.13211.pdf) | Ongoing |
 | Insup Lee                                                    | [Handbook of Real-Time and Embedded Systems](https://www.dropbox.com/s/tgfgapd0gxhg1x3/Handbook%20of%20Real-Time%20and%20Embedded%20Systems.pdf.pdf?dl=0) | Ongoing |
 | Silviu S. CraciunasRamon Serna Oliver                        | [Combined task- and network-level scheduling for distributed time-triggered systems](https://sci-hubtw.hkvisa.net/10.1007/s11241-015-9244-x) | Waiting |
-|                                                              |                                                              |         |
+| H. CHETTO, M. SILLY AND T. BOUCHENTOUF                       | [Dynamic Scheduling of Real-Time Tasks under Precedence Constraints](https://sci-hubtw.hkvisa.net/10.1007/bf00365326) | Waiting |
 
 
 
@@ -42,10 +44,10 @@
 | Authors                                                      | Title                                                        | Status  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- |
 | Sergey Bozhko, Georg von der Bru ̈ggen, and Bjo ̈rn B. Brandenburg | [Monte Carlo Response-Time Analysis](https://people.mpi-sws.org/~bbb/papers/pdf/rtss21-mc.pdf) | Ongoing |
-| Robert I. Davis, Liliana Cucu-Grosjean                       | A Survey of Probabilistic Schedulability Analysis Techniques for Real-Time Systems | Ongoing |
+| Robert I. Davis, Liliana Cucu-Grosjean                       | [A Survey of Probabilistic Schedulability Analysis Techniques for Real-Time Systems](https://ojs.dagstuhl.de/index.php/lites/article/view/LITES-v006-i001-a004) | Ongoing |
 | Woodbury, M.H.; Shin, K.G. (1988)                            | [EVALUATION OF THE PROBABILITY OF DYNAMIC FAILURE AND PROCESSOR UTILIZATION](https://sci-hubtw.hkvisa.net/10.1109/REAL.1988.51117#) | Ongoing |
-
-
+| Slim Ben-Amor (Speaker) ∗ Dorin Maxim † Liliana Cucu-Grosjean | [Schedulability Analysis of Dependent Probabilistic Real-Time Tasks](https://dl.acm.org/doi/pdf/10.1145/2997465.2997499?casa_token=ImQBuX1UEI0AAAAA:iZxqhR39GMYNdnBrlylXSRb3sZxwnv5YEJlksU7RIsy16HfaV3nva-liW6gaNgT2YA9alkwjpmK_) | Waiting |
+| Johan Nilsson                                                | [Real-Time Control Systems with Delays](https://lucris.lub.lu.se/ws/portalfiles/portal/4419523/8840255.pdf) | Ongoing |
 
 
 
@@ -62,6 +64,7 @@
 | TTTech                                                       | [IEEE 802.1Qbv Gate Control List Synthesis Using Array Theory Encoding](https://sci-hub.se/10.1109/rtas.2018.00008) | Waiting  |
 | Naresh Ganesh Nayak                                          | [Scheduling & Routing Time-triggered Trac in Time-sensitive Networks](https://d-nb.info/1172717451/34) | Waiting  |
 | Maryam Pahlevan                                              | [Evaluation Of Time-Triggered Traffic In Time-Sensitive Networks Using The OPNET Simulation Framework](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8374471) | Ongoing  |
+| Maile, Lisa; Hielscher, Kai-Steffen; German, Reinhard (2020). | [Network Calculus Results for TSN: An Introduction](https://sci-hubtw.hkvisa.net/10.1109/ictc49638.2020.9123308) | Waiting  |
 
 
 
@@ -77,11 +80,11 @@
 
 ### 1.5 Real-Time Operating System
 
-| Authors       | Title                                                        | Status  |
-| ------------- | ------------------------------------------------------------ | ------- |
-| Johan Nilsson | [Real-Time Control Systems with Delays](https://lucris.lub.lu.se/ws/portalfiles/portal/4419523/8840255.pdf) | Ongoing |
-|               |                                                              |         |
-|               |                                                              |         |
+| Authors | Title | Status |
+| ------- | ----- | ------ |
+|         |       |        |
+|         |       |        |
+|         |       |        |
 
 
 
@@ -105,6 +108,8 @@
 |                                                              |                                                              |         |
 |                                                              |                                                              |         |
 
+
+
 ### 2.2 Virtualization
 
 | Authors                                                   | Title                                                        | Status   |
@@ -116,7 +121,7 @@
 
 
 
-## 3. Optimization
+## 3. Mathematics
 
 ### 3.1 Job-Shop Scheduling
 
@@ -125,6 +130,16 @@
 | Shmoys  | [Improved Approximation Algorithms for Shop Scheduling Problems](https://ecommons.cornell.edu/bitstream/handle/1813/8804/TR000921.pdf?sequence=1) | Ongoing |
 |         |                                                              |         |
 |         |                                                              |         |
+
+
+
+### 3.2 Probability theory
+
+| Authors       | Title                                                        | Status  |
+| ------------- | ------------------------------------------------------------ | ------- |
+| Shmoys        | [Improved Approximation Algorithms for Shop Scheduling Problems](https://ecommons.cornell.edu/bitstream/handle/1813/8804/TR000921.pdf?sequence=1) | Ongoing |
+| Gautam Kamath | [Bounds on the Expectation of the Maximum of Samples from a Gaussian](http://www.gautamkamath.com/writings/gaussian_max.pdf) | Waiting |
+|               |                                                              |         |
 
 
 
@@ -147,6 +162,8 @@
 | [Guan Nan](https://scholar.google.com/citations?user=3C7SPAgAAAAJ&hl=en&oi=ao) | [City University of Hong Kong](https://scholar.google.com/citations?view_op=view_org&hl=en&org=6442500540992846260) |
 | [Insup Lee](https://scholar.google.com/citations?user=qPlUgrgAAAAJ&hl=en&oi=ao) | [University of Pennsylvania](https://scholar.google.com/citations?view_op=view_org&hl=en&org=18168328457749716238) |
 | [Aloysius Mok](https://scholar.google.com/citations?hl=en&user=M6urChQAAAAJ) | [University of Texas at Austin](https://scholar.google.com/citations?view_op=view_org&hl=en&org=14823011757688503605) |
+
+
 
 ## Contact
 
