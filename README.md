@@ -63,8 +63,8 @@
 | TTTech                                                       | [Scheduling Real-Time Communication in IEEE 802.1Qbv Time Sensitive Networks](https://www.researchgate.net/profile/Silviu-Craciunas-3/publication/308985854_Scheduling_Real-Time_Communication_in_IEEE_8021Qbv_Time_Sensitive_Networks/links/5e58cc624585152ce8f4ddc7/Scheduling-Real-Time-Communication-in-IEEE-8021Qbv-Time-Sensitive-Networks.pdf) | Finished |
 | TTTech                                                       | [IEEE 802.1Qbv Gate Control List Synthesis Using Array Theory Encoding](https://sci-hub.se/10.1109/rtas.2018.00008) | Waiting  |
 | Naresh Ganesh Nayak                                          | [Scheduling & Routing Time-triggered Trac in Time-sensitive Networks](https://d-nb.info/1172717451/34) | Waiting  |
-| Maryam Pahlevan                                              | [Evaluation Of Time-Triggered Traffic In Time-Sensitive Networks Using The OPNET Simulation Framework](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8374471) | Ongoing  |
-| Frank Dürr, Naresh Ganesh Nayak                              | [No-wait Packet Scheduling for IEEE Time-sensitive Networks (TSN)](https://dl.acm.org/doi/pdf/10.1145/2997465.2997494?casa_token=36-sAQKlZxwAAAAA:8BFsFhkvikTeIvjnhjS9e2rywWhzJWFp3aPkgRMQP7W3QWAbGfmuxaR5FKlxDWFx6neTfzzf4npD) | Ongoing  |
+| Maryam Pahlevan                                              | [Evaluation Of Time-Triggered Traffic In Time-Sensitive Networks Using The OPNET Simulation Framework](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8374471) | Finished |
+| Frank Dürr, Naresh Ganesh Nayak                              | [No-wait Packet Scheduling for IEEE Time-sensitive Networks (TSN)](https://dl.acm.org/doi/pdf/10.1145/2997465.2997494?casa_token=36-sAQKlZxwAAAAA:8BFsFhkvikTeIvjnhjS9e2rywWhzJWFp3aPkgRMQP7W3QWAbGfmuxaR5FKlxDWFx6neTfzzf4npD) | Finished |
 | Maile, Lisa; Hielscher, Kai-Steffen; German, Reinhard (2020). | [Network Calculus Results for TSN: An Introduction](https://sci-hubtw.hkvisa.net/10.1109/ictc49638.2020.9123308) | Waiting  |
 
 
